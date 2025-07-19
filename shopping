@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopping Categories</title>
+</head>
+<body>
+     <nav>
+        <a href="#food">Food Items</a>
+        <a href="#electronics">Electronics Items</a>
+    </nav>
+    <h1>Shopping Categories</h1>
+
+        <h2 id="food">Food Items</h2>
+        <ul>
+            <li>Pan cake</li>
+            <li>Ice cream</li>
+            <li>Chocolate</li>
+        </ul>
+    
+    <h2 id="electronics">Electronics Item</h2>
+    <ul>
+        <li>fan</li>
+        <li>light</li>
+        <li>switch</li>
+    </ul>
+    
+    <li>Fruits</li>
+    <ul>
+        <li>apple</li>
+        <li>orange</li>
+        <li>grapes</li>
+    </ul>
+    
+        <h3 id="Apples">About Apples</h3>
+        <p>Apple is a fruit used all over the world.Apples come in wide range of variets</p>
+    
+        <h3 id="tv">About Television</h3>  
+        <p>Television is an electronic device </p>
+    
+    <li><a href="#Apples">Apples</a></li>
+    <li><a href="#tv">Television</a></li>
+    
+</body>
+</html>
